@@ -1,4 +1,4 @@
-public class main {
+public class Main {
     public static void main( String[] args ) {
         long ticketPrice = 2136;
         int bonusMile = 20;
